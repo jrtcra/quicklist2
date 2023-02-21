@@ -1,6 +1,6 @@
 # quicklist2
 
-A new Flutter project.
+Flutter app as a todo list. Local storage via Hive is to be implemented
 
 ## Getting Started
 
